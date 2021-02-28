@@ -1,0 +1,23 @@
+G:\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\bin\Debug\AdoDotNetProject_Ashraful.exe
+G:\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\bin\Debug\AdoDotNetProject_Ashraful.exe.config
+G:\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\bin\Debug\AdoDotNetProject_Ashraful.pdb
+G:\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\obj\Debug\AdoDotNetProject_Ashraful.csprojAssemblyReference.cache
+G:\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\obj\Debug\AdoDotNetProject_Ashraful.AuthorInformation.resources
+G:\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\obj\Debug\AdoDotNetProject_Ashraful.BookInformation.resources
+G:\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\obj\Debug\AdoDotNetProject_Ashraful.Form1.resources
+G:\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\obj\Debug\AdoDotNetProject_Ashraful.Properties.Resources.resources
+G:\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\obj\Debug\AdoDotNetProject_Ashraful.csproj.GenerateResource.cache
+G:\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\obj\Debug\AdoDotNetProject_Ashraful.exe
+G:\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\obj\Debug\AdoDotNetProject_Ashraful.pdb
+G:\C# .Net Course\AdoDotNet\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\bin\Debug\AdoDotNetProject_Ashraful.exe.config
+G:\C# .Net Course\AdoDotNet\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\bin\Debug\AdoDotNetProject_Ashraful.exe
+G:\C# .Net Course\AdoDotNet\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\bin\Debug\AdoDotNetProject_Ashraful.pdb
+G:\C# .Net Course\AdoDotNet\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\obj\Debug\AdoDotNetProject_Ashraful.AuthorInformation.resources
+G:\C# .Net Course\AdoDotNet\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\obj\Debug\AdoDotNetProject_Ashraful.BookInformation.resources
+G:\C# .Net Course\AdoDotNet\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\obj\Debug\AdoDotNetProject_Ashraful.Form1.resources
+G:\C# .Net Course\AdoDotNet\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\obj\Debug\AdoDotNetProject_Ashraful.Properties.Resources.resources
+G:\C# .Net Course\AdoDotNet\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\obj\Debug\AdoDotNetProject_Ashraful.csproj.GenerateResource.cache
+G:\C# .Net Course\AdoDotNet\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\obj\Debug\AdoDotNetProject_Ashraful.csproj.CoreCompileInputs.cache
+G:\C# .Net Course\AdoDotNet\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\obj\Debug\AdoDotNetProject_Ashraful.exe
+G:\C# .Net Course\AdoDotNet\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\obj\Debug\AdoDotNetProject_Ashraful.pdb
+G:\C# .Net Course\AdoDotNet\AdoDotNetProject_Ashraful\AdoDotNetProject_Ashraful\obj\Debug\AdoDotNetProject_Ashraful.csprojAssemblyReference.cache
